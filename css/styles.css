@@ -1,0 +1,37 @@
+
+/* Sticky footer styles -------------------------------------------------- */ 
+html { 
+position: relative; 
+min-height: 100%; 
+} 
+.footer { 
+position: absolute; 
+bottom: 0; 
+width: 100%; /* Set the fixed height of the footer here */ 
+height: 60px; 
+background-color: #f5f5f5; 
+line-height: 60px;
+}
+
+body {
+  padding-top: 50px;
+   margin-bottom: 60px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.center-md {
+  padding: 20px 20px;
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.password-table {
+  width:250px;
+}
